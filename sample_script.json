@@ -1,0 +1,20 @@
+{
+  "title": "Welcome Video",
+  "scenes": [
+    {
+      "text": "नमस्ते! यह मेरा पहला AI जेनरेटेड वीडियो है।",
+      "duration": 4,
+      "background_color": [100, 150, 255]
+    },
+    {
+      "text": "यह agent स्क्रिप्ट से वीडियो बना सकता है।",
+      "duration": 4,
+      "background_color": [255, 100, 100]
+    },
+    {
+      "text": "धन्यवाद देखने के लिए!",
+      "duration": 3,
+      "background_color": [100, 255, 100]
+    }
+  ]
+}
